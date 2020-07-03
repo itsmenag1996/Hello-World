@@ -3,4 +3,4 @@ Just another repository
 
 My name is Nageswara Rao Goli.
 I am from Computer Science.
-I will take information which i thought it will be useful.
+I will take useful information.
